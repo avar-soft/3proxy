@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/Лицензия-MIT-orange?style=for-the-badge)](LICENSE)
 [![3proxy](https://img.shields.io/badge/3proxy-latest-blue?style=for-the-badge)](https://github.com/z3apa3a/3proxy)
 
-*Один скрипт — полный прокси-сервер. Задаёшь вопросы — получаешь готовый сервис.*  
+*Один скрипт — полный прокси-сервер.*  
 *HTTP · HTTPS · SOCKS5 · авторизация на каждый порт · ограничение по IP · systemd*
 
 ---
